@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c5jahb3efm1wo"]
+
+[ext_resource type="Script" uid="uid://dftw1jxewygln" path="res://scenes/Player/PlayerHolder.cs" id="1_th1td"]
+
+[node name="PlayerHolder" type="Node2D"]
+script = ExtResource("1_th1td")
